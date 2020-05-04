@@ -17,3 +17,5 @@ type Mutation {
   
   deleteUser(id: ID!): User!
 }
+
+# TODO: create Graphql Schema
